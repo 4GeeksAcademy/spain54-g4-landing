@@ -76,5 +76,5 @@ This and many other projects are built by students as part of the 4Geeks Academy
 > - first-heading.html
 > - services.html
 
-- [Diuca](https://github.com/diuca-x)https://github.com/diuca-x
+- [Diuca](https://github.com/diuca-x)
 > - Mirar
