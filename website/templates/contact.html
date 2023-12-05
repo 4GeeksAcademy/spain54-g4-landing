@@ -1,2 +1,32 @@
 <!-- your html code here -->
-<p>Hello, I'm contact.html</p>
+<!---
+    Background utilities like .bg-* that generated from our original $theme-colors Sass map don’t yet respond to color modes,
+    however, any .bg-*-subtle utility will. This will be resolved in v6.
+
+    -- Nota de Bootstrap, por eso se ve de este color el fondo del form, no me deja poner "subtle"
+    https://getbootstrap.com/docs/5.3/utilities/background/#background-color
+
+    Me he decidido por este color mas blanco por que el fondo de index.html es demasiado oscuro también, al menos en mi pantalla.
+-->
+
+<div class="container col-6 bg-light border border-body-secondary pb-4 pt-2">
+    <form>
+        <div class="row mb-3 text-end">
+            <label for="inputEmail" class="col-sm-2 col-form-label fw-bold">Your E-mail</label>
+            <div class="col-sm-10">
+                <input type="email" class="form-control" id="inputEmail" placeholder="Your E-mail">
+            </div>
+        </div>
+        <div class="row mb-3 text-end">
+            <label for="message" class="col-sm-2 col-form-label fw-bold">Your message</label>
+            <div class="col-sm-10">
+                <textarea class="form-control" id="message" rows="3"
+                    placeholder="Please enter your message here..."></textarea>
+            </div>
+        </div>
+        <div class="row justify-content-end px-2">
+            <button type="submit" class="btn btn-primary col-auto fw-bold">Submit</button>
+        </div>
+        
+    </form>
+</div>
