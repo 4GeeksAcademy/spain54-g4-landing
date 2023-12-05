@@ -1,4 +1,4 @@
-<!---# Making a website as a team (Git collaboration)
+# Making a website as a team (Git collaboration)
 
 Practice your skills in Git while developing a typical website.
 
@@ -63,18 +63,4 @@ Each student must deliver their team's leader repo as a solution.
 
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
-This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).-->
-
-# Asignaciones del proyecto:
- - [Carlos Atanes](https://github.com/xXcarlos117Xx2)
-> - contact.html
-> - porfolio.html
-> - tagline.html
-
-- [Carlos Betancourt](https://github.com/DonBeta)
-> - navbar.html
-> - first-heading.html
-> - services.html
-
-- [Diuca](https://github.com/diuca-x)
-> - Mirar
+This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
